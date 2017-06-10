@@ -1,6 +1,6 @@
-# HackerRank-Solutions
+# [HackerRank](https://www.hackerrank.com)
 
-Solutions to problems on HackerRank
+Solutions to problems I have solved on HackerRank
 
 
 ## Algorithms ##
