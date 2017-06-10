@@ -16,4 +16,4 @@ Solutions to problems I have solved on HackerRank
 
 | Subdomain | Challenge | Points | Solution |
 |-----------|-----------|--------|----------|
-|Arrays| Array - DS | 10 | [Solution]()|
+|Arrays| [Array - DS](https://www.hackerrank.com/challenges/arrays-ds) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Data%20Structures/Arrays/Solution.java)|
