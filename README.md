@@ -17,6 +17,24 @@ Solutions to problems I have solved on HackerRank
 |Warmup| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | 10 |  [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Warmup/Mini-Max%20Sum/Solution.java) |
 |Warmup| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | 10 |  [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java) |
 | Warmup    |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|15|    [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Warmup/Time%20Conversion/Solution.java)    |
+| | | | |
+|Implmentation| [Grading Students](https://www.hackerrank.com/challenges/grading) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Grading%20Students/Solution.java)|
+|Implmentation| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Apple%20and%20Orange/Solution.java)|
+|Implmentation| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Kangaroo/Solution.java)|
+|Implmentation| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Between%20Two%20Sets/Solution.java)|
+|Implmentation| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Breaking%20the%20Records/Solution.java)|
+|Implmentation| [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Birthday%20Chocolate/Solution.java)|
+|Implmentation| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.java)|
+|Implmentation| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Migratory%20Birds/Solution.java)|
+|Implmentation| [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer) | 15 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Day%20of%20the%20Programmer/Solution.java)|
+|Implmentation| [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Bon%20App-tit/Solution.java)|
+|Implmentation| [Sock Merchant ](https://www.hackerrank.com/challenges/sock-merchant) | 10 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Sock%20Merchant/Solution.java)|
+|Implmentation| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | 15 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java)|
+|Implmentation| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | 15 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/The%20Hurdle%20Race/Solution.java)|
+|Implmentation| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | 20 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java)|
+|Implmentation| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | 20 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Utopian%20Tree/Solution.java)|
+|Implmentation| [Angry Professor ](https://www.hackerrank.com/challenges/angry-professor) | 20 | [Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/Algorithms/Implementation/Angry%20Professor/Solution.java)|
+
 
 
 
