@@ -70,27 +70,26 @@ Solutions to problems I have solved on HackerRank
 
 | Subdomain | Challenge | Points | Solution |
 |:---------:|:---------:|:------:|:--------:|
-| Basic Select  | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)  | 10  | [Solution]()  |
-| Basic Select  | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)  |  10 | [Solution]()  |
-| Basic Select  | [Select All](https://www.hackerrank.com/challenges/select-all-sql)  |  10 | [Solution]()  |
-| Basic Select  | [Select By ID](https://www.hackerrank.com/challenges/select-by-id)  | 10  | [Solution]()  |
-| Basic Select  | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)  | 10  | [Solution]()  |
-| Basic Select  | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)  | 10  | [Solution]()  |
-| Basic Select  | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)  |  15 | [Solution]()  |
-| Basic Select  | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)  | 10  | [Solution]()  |
-| Basic Select  | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3)  | 10  | [Solution]()  |
-| Basic Select  | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4)  |  10 | [Solution]()  |
-| Basic Select  | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5)  | 30  | [Solution]()  |
-| Basic Select  | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6)  |  10 | [Solution]()  |
-| Basic Select  | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7)  | 10  | [Solution]()  |
-| Basic Select  | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)  | 15  | [Solution]()  |
-| Basic Select  | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)  | 10  | [Solution]()  |
-| Basic Select  | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)  | 10  | [Solution]()  |
-| Basic Select  | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)  | 15  | [Solution]()  |
-| Basic Select  | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)  | 15  | [Solution]()  |
-| Basic Select  | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)  | 15  | [Solution]()  |
-| Basic Select  | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)  | 10  | [Solution]()  |
-| Basic Select  | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)  | 10  | [Solution]()  |
+| Basic Select  | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)  | 10  | [MySQL Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/MySQL%20Solution)  |
+| Basic Select  | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)  |  10 | [MySQL Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/MySQL%20Solution)  |
+| Basic Select  | [Select All](https://www.hackerrank.com/challenges/select-all-sql)  |  10 | [MySQL Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Select%20All/MySQL%20Solution)  |
+| Basic Select  | [Select By ID](https://www.hackerrank.com/challenges/select-by-id)  | 10  | [MySQL Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Select%20By%20ID/MySQL%20Solution)  |
+| Basic Select  | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)  | 10  | [MySQL Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Japanese%20Cities-%20Attributes/MySQL%20Solution)  |
+| Basic Select  | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)  | 10  | [MySQL Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Japanese%20Cities-%20Names/MySQL%20Solution)  |
+| Basic Select  | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)  |  15 | [MySQL Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%201/MySQL%20Solution)  |
+| Basic Select  | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3)  | 10  | [MySQL Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%203/MySQL%20Solution)  |
+| Basic Select  | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4)  |  10 | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%204/Oracle%20Solution)  |
+| Basic Select  | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5)  | 30  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%205/Oracle%20Solution)  |
+| Basic Select  | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6)  |  10 | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%206/Oracle%20Solution)  |
+| Basic Select  | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7)  | 10  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%207/Oracle%20Solution)  |
+| Basic Select  | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)  | 15  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%208/Oracle%20Solution)  |
+| Basic Select  | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)  | 10  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%209/Oracle%20Solution)  |
+| Basic Select  | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)  | 10  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%2010/Oracle%20Solution)  |
+| Basic Select  | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)  | 15  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%2011/Oracle%20Solution)  |
+| Basic Select  | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)  | 15  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%2012/Oracle%20Solution)  |
+| Basic Select  | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)  | 15  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Higher%20Than%2075%20Marks/Oracle%20Solution)  |
+| Basic Select  | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)  | 10  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Employee%20Names/Oracle%20Solution)  |
+| Basic Select  | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)  | 10  | [Oracle Solution](https://github.com/tang68/HackerRank-Solutions/blob/master/SQL/Basic%20Select/Employee%20Salaries/Oracle%20Solution)  |
 
 
 
