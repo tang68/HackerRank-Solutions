@@ -1,8 +1,6 @@
-1
+
 /*
-2
 Enter your query here.
-3
 */
-4
+
 SELECT CITY, STATE FROM STATION;
